@@ -1,0 +1,17 @@
+{
+  "name": "roll-a-die",
+  "version": "1.0.0",
+  "description": "Displays the result of a dice roll in your terminal",
+  "main": "index.js",
+  "bin": {
+    "roll": "./index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pxlmvr",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
